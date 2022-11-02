@@ -1,1 +1,1 @@
-# wp-docker
+# WordPress-Docker environment
